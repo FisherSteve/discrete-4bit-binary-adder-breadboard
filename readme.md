@@ -11,14 +11,14 @@ Anstatt fertige Addierer-Chips zu verwenden, nutzt dieses Design grundlegende Lo
 
 ### Kernmerkmale:
 * **Ripple Carry Architektur:** Der Übertrag (Carry) wandert sequenziell durch jede Bit-Stufe.
-* [cite_start]**Hybrid-Design:** Bestehend aus einem Half Adder für das niederwertigste Bit (LSB) und drei Full Adder Stufen.
-* [cite_start]**Interaktiv:** Eingabe über DIP-Switches, Ausgabe über LEDs[cite: 1].
+* **Hybrid-Design:** Bestehend aus einem Half Adder für das niederwertigste Bit (LSB) und drei Full Adder Stufen.
+* **Interaktiv:** Eingabe über DIP-Switches, Ausgabe über LEDs.
 
 ---
 
 ## 📐 Logische Schaltung
 
-Die Schaltung wurde vorab in **CircuitVerse** simuliert. [cite_start]Sie besteht aus insgesamt 7 XOR-Gattern, 7 AND-Gattern und 3 OR-Gattern.
+Die Schaltung wurde vorab in **CircuitVerse** simuliert.Sie besteht aus insgesamt 7 XOR-Gattern, 7 AND-Gattern und 3 OR-Gattern.
 
 ![Logisches Schaltbild](images/logic_circuit.png)
 
@@ -47,7 +47,7 @@ Das Projekt wird über **USB-Power (5V)** versorgt.
 | **74HC08** | 2 | Quad AND-Gatter (Carry-Logik) |
 | **74HC32** | 1 | Quad OR-Gatter (Carry-Zusammenführung) |
 | **DIP-Schalter** | 2 | 4-polig, Eingabe für Zahl A und B |
-| **LEDs** | 5 | [cite_start]Anzeige für s0, s1, s2, s3 und c3 |
+| **LEDs** | 5 | Anzeige für s0, s1, s2, s3 und c3 |
 | **Widerstände** | 8 | 10k Ohm (Pull-Down für Schalter) |
 | **Widerstände** | 5 | 440 Ohm (Vorwiderstände für LEDs) |
 | **Draht** | - | 0,5mm Starrdraht (farblich sortiert) |

@@ -18,7 +18,7 @@ Anstatt fertige Addierer-Chips zu verwenden, nutzt dieses Design grundlegende Lo
 
 ## 📐 Logische Schaltung
 
-Die Schaltung wurde vorab in **CircuitVerse** simuliert.Sie besteht aus insgesamt 7 XOR-Gattern, 7 AND-Gattern und 3 OR-Gattern.
+Die Schaltung wurde vorab in **CircuitVerse** simuliert. Sie besteht aus insgesamt 7 XOR-Gattern, 7 AND-Gattern und 3 OR-Gattern.
 
 ![Logisches Schaltbild](images/logic_circuit.png)
 

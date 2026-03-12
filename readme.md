@@ -22,7 +22,8 @@ Die Schaltung wurde vorab in **CircuitVerse** simuliert. Sie besteht aus insgesa
 
 ![Logisches Schaltbild](images/logic_circuit.png)
 
-> **Tipp:** Du findest die zugehörige Simulationsdatei `4_bit_full_adder.cv` ebenfalls hier im Repository. Diese kannst du bei [CircuitVerse](https://circuitverse.org/) importieren.
+Du kannst die Schaltung digital im Browser ansehen oder verändern:
+* **Simulation öffnen:** [4_bit_full_adder.cv](./4_bit_full_adder.cv) (Datei herunterladen und bei [CircuitVerse.org](https://circuitverse.org/simulator) importieren).
 
 ---
 

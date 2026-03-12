@@ -2,7 +2,7 @@
 
 Ein von Grund auf diskret aufgebauter 4-Bit-Binäraddierer auf dem Breadboard, inspiriert durch die Hardware-Projekte von **Ben Eater**. Dieses Projekt demonstriert die fundamentale Funktionsweise von Computer-Arithmetik durch die physische Verschaltung einzelner Logikgatter der 74HC-Serie.
 
-![Breadboard Aufbau](images/breadboard_build.png)
+![Breadboard Aufbau](images/breadboard-build.png)
 *Der fertige Aufbau auf dem Breadboard.*
 
 ## 🚀 Projektübersicht
